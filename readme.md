@@ -1,2 +1,3 @@
-#Sample Java Program
+#JAVA
+
 This Repository contains sample Java Program.....
